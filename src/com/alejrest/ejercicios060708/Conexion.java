@@ -1,4 +1,4 @@
-package com.alejrest.ejercicos678;
+package com.alejrest.ejercicios060708;
 
 public class Conexion {
     private String conector;

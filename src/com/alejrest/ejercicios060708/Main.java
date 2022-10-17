@@ -1,4 +1,4 @@
-package com.alejrest.ejercicos678;
+package com.alejrest.ejercicios060708;
 
 public class Main {
     public static void main(String[] args) {
